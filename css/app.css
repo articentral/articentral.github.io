@@ -1,0 +1,6 @@
+.row{
+	margin:0;
+	max-width: none;
+}
+
+@import 'articentral.scss';
