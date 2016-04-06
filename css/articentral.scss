@@ -54,6 +54,9 @@ body{
   vertical-align: middle;
   background-color: #FF5A5F;
   font-weight: bold;
+  &:hover{
+  background-color: #FF5A5F;
+}
 }
 
 .section-header {
@@ -231,9 +234,6 @@ body{
   }
   .button{
     min-width: 100px;
-    &:hover{
-      background-color: #FF5A5F;
-    }
   }
 }
 

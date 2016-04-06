@@ -52,6 +52,8 @@ body {
   vertical-align: middle;
   background-color: #FF5A5F;
   font-weight: bold; }
+  .button:hover {
+    background-color: #FF5A5F; }
 
 .section-header {
   text-align: center;
@@ -163,8 +165,6 @@ body {
     height: 100px; }
   #contact .button {
     min-width: 100px; }
-    #contact .button:hover {
-      background-color: #FF5A5F; }
 
 #footer {
   background-color: #4A4A4A;
